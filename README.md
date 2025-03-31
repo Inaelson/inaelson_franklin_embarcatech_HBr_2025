@@ -29,7 +29,3 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 ## Licença
 
 MIT License ou GPL-3.0
-<<<<<<< HEAD
-
-=======
->>>>>>> 42b0f0885e041cf5a060f580d9fad673e927f827
