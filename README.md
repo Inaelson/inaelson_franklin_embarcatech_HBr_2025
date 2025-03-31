@@ -1,6 +1,7 @@
+
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **(insira seu nome)**
+Autor: **Inaelson Franklin Alves Ferreira**
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
@@ -13,11 +14,18 @@ Campinas, março de 2025
 ## Sobre este repositório
 
 Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas Embarcados, durante a etapa de residência.  
-
 Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e recursos visuais.
 
 ---
 
-## O que fazer com este arquivo
+## 📂 Lista de Projetos
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+| Projeto | Descrição |
+|---------|-----------|
+| [BitDogMouse](./projetos/BitDogMouse/) | Aplicação de uso da BitDogLab como mouse wireless via Wi-Fi |
+
+---
+
+## Licença
+
+MIT License ou GPL-3.0
