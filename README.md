@@ -23,7 +23,7 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 | Projeto | Descrição |
 |---------|-----------|
 | [BitDogMouse](./projetos/BitDogMouse/) | Aplicação de uso da BitDogLab como mouse wireless via Wi-Fi |
-| [BitDogMouse](./projetos/contador_decrescente_irq/) | Contador regressivo com registro de interrupção |
+| [ContadorRegressivoIRQ](./projetos/contador_decrescente_irq/) | Contador regressivo com registro de interrupção |
 
 ---
 
