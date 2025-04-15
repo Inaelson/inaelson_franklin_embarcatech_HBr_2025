@@ -10,7 +10,7 @@ Demonstrar como utilizar o canal 4 do ADC do RP2040 para obter a temperatura int
 
 | Componente             | Conexão na BitDogLab             |
 |------------------------|----------------------------------|
-| BitDogLab (RP2040)     | - (sensor interno, sem conexão externa) |
+| BitDogLab (RP2040)     | (sensor interno, sem conexão externa) |
 
 ## Execução
 
