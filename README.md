@@ -23,7 +23,8 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 | Projeto | Descrição |
 |---------|-----------|
 | [BitDogMouse](./projetos/BitDogMouse/) | Aplicação de uso da BitDogLab como mouse wireless via Wi-Fi |
-| [ContadorRegressivoIRQ](./projetos/contador_decrescente_irq/) | Contador regressivo com registro de interrupção |
+| [contador_decrescente_irq](./projetos/contador_decrescente_irq/) | Contador regressivo com registro de interrupção |
+| [leitura_temperatura_interna_rp2040](./projetos/leitura_temperatura_interna_rp2040/) | Leitor de temperatura interna do RP2040 |
 
 ---
 
