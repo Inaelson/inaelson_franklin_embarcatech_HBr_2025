@@ -27,7 +27,7 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 | [leitura_temperatura_interna_rp2040](./projetos/leitura_temperatura_interna_rp2040/) | Leitor de temperatura interna do RP2040 |
 | [reader_joystick_adc](./projetos/reader_joystick_adc/) | Coversão dos valores analógicos do Joystick via ADC |
 | [led_blink](./projetos/led_blink/) | Piscar LED da Raspberry Pi Pico W (Modularizado) |
-| [adc_temperature_read_with_test](./projetos/adc_temperature_read_with_test/) | Leitura de Temperatura Interna no RP2040 (COM TESTE)|
+| [adc_temperature_with_test](./projetos/adc_temperature_with_test/) | Leitura de Temperatura Interna no RP2040 (COM TESTE)|
 
 ---
 
