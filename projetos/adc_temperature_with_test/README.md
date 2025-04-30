@@ -1,4 +1,4 @@
-# 🌡️ Leitura de Temperatura Interna no RP2040
+# 🌡️ Leitura de Temperatura Interna no RP2040 (COM TESTE)
 
 Este projeto inclui testes unitários usando o framework Unity, para validar a conversão do valor do ADC em graus Celsius com base na fórmula oficial do datasheet.
 
